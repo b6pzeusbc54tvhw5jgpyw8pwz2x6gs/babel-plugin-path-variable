@@ -14,7 +14,7 @@ npm install --save-dev babel-plugin-path-variable
 ### `__dirname`
 
 >**In**  
-`FilePath: /Users/wuchangming/github/babel-plugin-path-variable/test_folder/dirname.js`
+`file path: /Users/wuchangming/github/babel-plugin-path-variable/test_folder/dirname.js`
 ```javascript
 var dir = __dirname;
 ```
@@ -27,7 +27,7 @@ var dir = "/Users/wuchangming/github/babel-plugin-path-variable/test_folder";
 ### `__filename`
 
 >**In**  
-`FilePath: /Users/wuchangming/github/babel-plugin-path-variable/test_folder/filename.js`  
+`file path: /Users/wuchangming/github/babel-plugin-path-variable/test_folder/filename.js`  
 ```javascript
 var dir = __filename;
 ```
