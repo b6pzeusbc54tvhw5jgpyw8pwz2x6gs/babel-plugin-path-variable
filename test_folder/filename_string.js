@@ -1,1 +1,1 @@
-var f = '__filename'
+var f = '__filename';

@@ -1,1 +1,1 @@
-var dir = __dirname
+var dir = __dirname;
